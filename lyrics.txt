@@ -1,0 +1,10 @@
+lyrics = [
+    (0.0, "Foto kita blur"),
+    (3.5, "Tak banyak yang kulihat"),
+    (6.5, "Foto kita blur"),
+    (10.0, "Tapi banyak yang aku ingat"),
+    (14.0, "Foto kita blur"),
+    (17.5, "Kita pernah begitu dekat"),
+    (21.0, "Foto kita blur"),
+    (24.5, "Kini memorinya kudekap"),
+]
